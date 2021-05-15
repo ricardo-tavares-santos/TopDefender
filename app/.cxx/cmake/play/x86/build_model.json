@@ -1,0 +1,74 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender",
+      "sdkFolder": "C:\\Users\\ricar\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app",
+      "makeFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\.cxx",
+      "cxxFolder": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\ricar\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_PLATFORM\u003dandroid-22"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "play",
+    "soFolder": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\build\\intermediates\\cmake\\play\\lib",
+    "objFolder": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\build\\intermediates\\cmake\\play\\obj",
+    "jsonFolder": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cmake\\play",
+    "gradleBuildOutputFolder": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cxx\\play",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 22,
+  "cxxBuildFolder": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cmake\\play\\x86",
+  "jsonFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cmake\\play\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cxx\\play\\x86",
+  "objFolder": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\build\\intermediates\\cmake\\play\\obj\\x86",
+  "buildCommandFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cmake\\play\\x86\\build_command.txt",
+  "buildOutputFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cmake\\play\\x86\\build_output.txt",
+  "modelOutputFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cmake\\play\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cxx\\play\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cxx\\play\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cxx\\play\\x86\\build_generation_state.json",
+    "cacheKeyFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cxx\\play\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cxx\\play\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cxx\\play\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cxx\\play\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cmake\\play\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\ANDROID\\RWTech\\TopDefender\\TopDefender\\app\\.cxx\\cmake\\play\\x86\\compile_commands.json"
+}

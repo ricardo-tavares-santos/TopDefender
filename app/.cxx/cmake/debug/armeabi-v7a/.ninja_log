@@ -1,0 +1,27 @@
+# ninja log v5
+139	510	0	CMakeFiles/netguard.dir/src/main/jni/netguard/dhcp.c.o	3ec59f460bc259b4
+187	526	0	CMakeFiles/netguard.dir/src/main/jni/netguard/pcap.c.o	5fa41a04a2fa458c
+217	534	0	CMakeFiles/netguard.dir/src/main/jni/netguard/util.c.o	5739e9670873253e
+247	543	0	CMakeFiles/netguard.dir/src/main/jni/netguard/dns.c.o	296ae56ea68ac1be
+38	553	0	CMakeFiles/netguard.dir/src/main/jni/netguard/session.c.o	588099dc5783dd31
+73	555	0	CMakeFiles/netguard.dir/src/main/jni/netguard/icmp.c.o	eb3e848a10ddc339
+1	574	0	CMakeFiles/netguard.dir/src/main/jni/netguard/ip.c.o	431c93f39f702ca3
+20	575	0	CMakeFiles/netguard.dir/src/main/jni/netguard/udp.c.o	557b43ccf10d0f43
+100	610	0	CMakeFiles/netguard.dir/src/main/jni/netguard/netguard.c.o	b5c114ae0bafd78f
+56	636	0	CMakeFiles/netguard.dir/src/main/jni/netguard/tcp.c.o	70e1dbb13dc6f4a0
+636	1583	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnetguard.so	e138315643fc760e
+5	238	0	CMakeFiles/netguard.dir/src/main/jni/netguard/netguard.c.o	b5c114ae0bafd78f
+238	673	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnetguard.so	e138315643fc760e
+9	475	0	CMakeFiles/netguard.dir/src/main/jni/netguard/netguard.c.o	b5c114ae0bafd78f
+21	496	0	CMakeFiles/netguard.dir/src/main/jni/netguard/ip.c.o	431c93f39f702ca3
+13	516	0	CMakeFiles/netguard.dir/src/main/jni/netguard/tcp.c.o	70e1dbb13dc6f4a0
+33	524	0	CMakeFiles/netguard.dir/src/main/jni/netguard/pcap.c.o	5fa41a04a2fa458c
+27	528	0	CMakeFiles/netguard.dir/src/main/jni/netguard/dhcp.c.o	3ec59f460bc259b4
+24	536	0	CMakeFiles/netguard.dir/src/main/jni/netguard/util.c.o	5739e9670873253e
+30	537	0	CMakeFiles/netguard.dir/src/main/jni/netguard/dns.c.o	296ae56ea68ac1be
+16	561	0	CMakeFiles/netguard.dir/src/main/jni/netguard/udp.c.o	557b43ccf10d0f43
+18	570	0	CMakeFiles/netguard.dir/src/main/jni/netguard/session.c.o	588099dc5783dd31
+5	584	0	CMakeFiles/netguard.dir/src/main/jni/netguard/icmp.c.o	eb3e848a10ddc339
+584	859	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnetguard.so	e138315643fc760e
+7	361	0	CMakeFiles/netguard.dir/src/main/jni/netguard/netguard.c.o	b5c114ae0bafd78f
+362	929	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnetguard.so	e138315643fc760e
